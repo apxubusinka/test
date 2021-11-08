@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Мой плейлист</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<category>
+<category_id>1</category_id>
+<category_title>Сериалы</category_title>
+</category>
+
+<channel>
+<title>СейлорМун 4 сезон</title>
+<description><![CDATA[СейлорМун 4 сезон]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/apxubusinka/test/main/test.m3u]]></playlist_url>
+<category_id>1</category_id>
+</channel>
+
+</items>
