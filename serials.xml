@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Сериалы</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>SailorMoon</title>
+<description><![CDATA[SailorMoon]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/apxubusinka/test/main/serials/SailorMoon/sailormoon.xml]]></playlist_url>
+</channel>
+
+</items>
