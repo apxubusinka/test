@@ -14,7 +14,7 @@
 
 <channel>
 <title>SailorMoon</title>
-<description><![CDATA[<iframe sandbox name="info_iframe" src="https://raw.githubusercontent.com/apxubusinka/test/main/serials/SailorMoon/SM.jpg" width="440" height="420"></iframe>]]></description>
+<description><![CDATA[<iframe sandbox name="info_iframe" img src="https://raw.githubusercontent.com/apxubusinka/test/main/serials/SailorMoon/SM.jpg" width="440" height="420"></iframe>]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/apxubusinka/test/main/serials/SailorMoon/sailormoon.xml]]></playlist_url>
 </channel>
 
