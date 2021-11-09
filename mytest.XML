@@ -12,16 +12,11 @@
 <all_ibuffer></all_ibuffer>
 </all_channels>
 
-<category>
-<category_id>1</category_id>
-<category_title>Сериалы</category_title>
-</category>
 
 <channel>
-<title>СейлорМун 4 сезон</title>
-<description><![CDATA[СейлорМун 4 сезон]]></description>
+<title>Сериалы</title>
+<description><![CDATA[Сериалы]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/apxubusinka/test/main/serials.xml]]></playlist_url>
-<category_id>1</category_id>
 </channel>
 
 </items>
